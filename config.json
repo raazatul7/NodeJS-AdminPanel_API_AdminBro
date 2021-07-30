@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://tacos:rgnRLnIkjGvKDE09@marikitiapp.htvgv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secret": "MARIKITI2021"
+}
